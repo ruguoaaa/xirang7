@@ -52,7 +52,7 @@ features:
   - icon: repo
     title: 佛藏
     details: 乾隆藏，嘉兴藏，大藏经，续藏经，藏外。
-    link: https://ruguoaaa.github.io/xirang7/佛藏/
+    link: /佛藏/
 
   - icon: repo
     title: 儒藏
