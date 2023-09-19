@@ -1,10 +1,10 @@
 ---
-title: 大乘般若部
+title: 大乘宝积部
 index: false
 icon: folder
-order: 10
+order: 15
 category:
-  - 大乘般若部
+  - 大乘宝积部
 ---
 
 <AutoCatalog  />
