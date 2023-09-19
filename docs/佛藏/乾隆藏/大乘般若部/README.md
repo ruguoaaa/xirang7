@@ -1,9 +1,10 @@
 ---
-title: 佛教
+title: 大乘般若部
 index: false
 icon: folder
+order: 10
 category:
-  - 佛教
+  - 大乘般若部
 ---
 
 <AutoCatalog  />

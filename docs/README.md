@@ -80,14 +80,14 @@ footer: 使用<a href="https://theme-hope.vuejs.press/" target="_blank">VuePress
 
 
 ### 整理完成情况：
-  * [x] 诗藏  100%
-  * [x] 医藏  1%
+  * [x] 诗藏  100%  
+  * [x] 医藏  100%  
   * [ ] 易藏
   * [ ] 史藏
   * [ ] 子藏
   * [ ] 集藏
   * [ ] 艺藏
-  * [ ] 佛藏 
+  * [x] 佛藏  1%  
   * [ ] 儒藏
   * [ ] 道藏
 
